@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.NET LAB\\IntroWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|f:\\.net lab\\introwebapi\\introwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|f:\\.net lab\\introwebapi\\introwebapi\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|f:\\.net lab\\introwebapi\\introwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|f:\\.net lab\\introwebapi\\introwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|f:\\.net lab\\introwebapi\\introwebapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|f:\\.net lab\\introwebapi\\introwebapi\\introwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32452C7D-5B41-927E-442E-9EDF4A6BA2F5}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\introwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\Controllers\\DepartmentController.cs",
+              "ToolTip": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "IntroWebApi\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:13:54.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "IntroWebApi\\DTOs\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:34:41.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\Program.cs",
+              "ToolTip": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\Program.cs",
+              "RelativeToolTip": "IntroWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:54:48.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroWebApi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:36:35.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\DTOs\\StudentDTO.cs",
+              "ToolTip": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "IntroWebApi\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:33:08.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IntroWebApi.csproj",
+              "DocumentMoniker": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\IntroWebApi.csproj",
+              "RelativeDocumentMoniker": "IntroWebApi\\IntroWebApi.csproj",
+              "ToolTip": "F:\\.NET LAB\\IntroWebApi\\IntroWebApi\\IntroWebApi.csproj",
+              "RelativeToolTip": "IntroWebApi\\IntroWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-22T19:32:09.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
