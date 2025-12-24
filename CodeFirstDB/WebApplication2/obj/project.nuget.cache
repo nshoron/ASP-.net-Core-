@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GK97AREmSrU=",
+  "dgSpecHash": "ZWvYMDC7H9g=",
   "success": true,
-  "projectFilePath": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\CodeFirstDbWebApi.csproj",
+  "projectFilePath": "F:\\ASP .net Core\\CodeFirstDB\\WebApplication2\\CodeFirstDbWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasru\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\nasru\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8cxWH3s/F2Y=",
+  "success": true,
+  "projectFilePath": "F:\\ASP .net Core\\DBFirst\\DBFirst\\DBFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasru\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\nasru\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

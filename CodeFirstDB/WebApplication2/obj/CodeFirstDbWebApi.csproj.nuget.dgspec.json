@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\CodeFirstDbWebApi.csproj": {}
+    "F:\\ASP .net Core\\CodeFirstDB\\WebApplication2\\CodeFirstDbWebApi.csproj": {}
   },
   "projects": {
-    "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\CodeFirstDbWebApi.csproj": {
+    "F:\\ASP .net Core\\CodeFirstDB\\WebApplication2\\CodeFirstDbWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\CodeFirstDbWebApi.csproj",
+        "projectUniqueName": "F:\\ASP .net Core\\CodeFirstDB\\WebApplication2\\CodeFirstDbWebApi.csproj",
         "projectName": "CodeFirstDbWebApi",
-        "projectPath": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\CodeFirstDbWebApi.csproj",
+        "projectPath": "F:\\ASP .net Core\\CodeFirstDB\\WebApplication2\\CodeFirstDbWebApi.csproj",
         "packagesPath": "C:\\Users\\nasru\\.nuget\\packages\\",
-        "outputPath": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "F:\\ASP .net Core\\CodeFirstDB\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

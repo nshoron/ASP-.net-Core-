@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFirstDbWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb7101933a9f8895195bd973f1867781e396edc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+988ab7cc56a2a74dd0e56a4bfb78ce90695ea6f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFirstDbWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFirstDbWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

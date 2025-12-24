@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApplication2",
+    "\\WebApplication2\\Controllers"
   ],
-  "SelectedNode": "\\WebApplication2.slnx",
+  "SelectedNode": "\\WebApplication2\\Controllers\\NewsController.cs",
   "PreviewInSolutionExplorer": false
 }
