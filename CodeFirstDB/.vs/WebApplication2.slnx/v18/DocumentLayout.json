@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ASP .net Core\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|f:\\asp .net core\\webapplication2\\webapplication2\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|solutionrelative:webapplication2\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|f:\\asp .net core\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|f:\\asp .net core\\webapplication2\\webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|solutionrelative:webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|f:\\asp .net core\\webapplication2\\webapplication2\\dtos\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|solutionrelative:webapplication2\\dtos\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|f:\\asp .net core\\webapplication2\\webapplication2\\dtos\\catagorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|solutionrelative:webapplication2\\dtos\\catagorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|f:\\asp .net core\\webapplication2\\webapplication2\\ef\\nmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|solutionrelative:webapplication2\\ef\\nmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|f:\\asp .net core\\webapplication2\\webapplication2\\codefirstdbwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|solutionrelative:webapplication2\\codefirstdbwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|f:\\asp .net core\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E7C5449-A51F-03E9-9525-8C3E785B36C0}|WebApplication2\\CodeFirstDbWebApi.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T21:16:51.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsDTO.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\DTOs\\NewsDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DTOs\\NewsDTO.cs",
+              "ToolTip": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\DTOs\\NewsDTO.cs",
+              "RelativeToolTip": "WebApplication2\\DTOs\\NewsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T20:07:11.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:57:12.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\NewsController.cs",
+              "ToolTip": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T20:11:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatagoryDTO.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\DTOs\\CatagoryDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DTOs\\CatagoryDTO.cs",
+              "ToolTip": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\DTOs\\CatagoryDTO.cs",
+              "RelativeToolTip": "WebApplication2\\DTOs\\CatagoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T20:06:55.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NmsDbContext.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\EF\\NmsDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\EF\\NmsDbContext.cs",
+              "ToolTip": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\EF\\NmsDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\EF\\NmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T20:00:54.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CodeFirstDbWebApi.csproj",
+              "DocumentMoniker": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\CodeFirstDbWebApi.csproj",
+              "RelativeDocumentMoniker": "WebApplication2\\CodeFirstDbWebApi.csproj",
+              "ToolTip": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\CodeFirstDbWebApi.csproj",
+              "RelativeToolTip": "WebApplication2\\CodeFirstDbWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-24T19:59:12.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "F:\\ASP .net Core\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T19:57:28.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
