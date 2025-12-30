@@ -1,0 +1,14 @@
+F:\ASP .net Core\3_Tier_Arch\DAL\bin\Debug\net10.0\DAL.deps.json
+F:\ASP .net Core\3_Tier_Arch\DAL\bin\Debug\net10.0\DAL.runtimeconfig.json
+F:\ASP .net Core\3_Tier_Arch\DAL\bin\Debug\net10.0\DAL.dll
+F:\ASP .net Core\3_Tier_Arch\DAL\bin\Debug\net10.0\DAL.pdb
+F:\ASP .net Core\3_Tier_Arch\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+F:\ASP .net Core\3_Tier_Arch\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP .net Core\3_Tier_Arch\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+F:\ASP .net Core\3_Tier_Arch\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+F:\ASP .net Core\3_Tier_Arch\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+F:\ASP .net Core\3_Tier_Arch\DAL\obj\Debug\net10.0\DAL.dll
+F:\ASP .net Core\3_Tier_Arch\DAL\obj\Debug\net10.0\refint\DAL.dll
+F:\ASP .net Core\3_Tier_Arch\DAL\obj\Debug\net10.0\DAL.pdb
+F:\ASP .net Core\3_Tier_Arch\DAL\obj\Debug\net10.0\DAL.genruntimeconfig.cache
+F:\ASP .net Core\3_Tier_Arch\DAL\obj\Debug\net10.0\ref\DAL.dll
