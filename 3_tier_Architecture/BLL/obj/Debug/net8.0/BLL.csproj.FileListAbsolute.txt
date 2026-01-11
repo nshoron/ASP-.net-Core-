@@ -1,0 +1,17 @@
+F:\ASP .net Core\3_tier_Architecture\BLL\bin\Debug\net8.0\BLL.deps.json
+F:\ASP .net Core\3_tier_Architecture\BLL\bin\Debug\net8.0\BLL.runtimeconfig.json
+F:\ASP .net Core\3_tier_Architecture\BLL\bin\Debug\net8.0\BLL.dll
+F:\ASP .net Core\3_tier_Architecture\BLL\bin\Debug\net8.0\BLL.pdb
+F:\ASP .net Core\3_tier_Architecture\BLL\bin\Debug\net8.0\DAL.dll
+F:\ASP .net Core\3_tier_Architecture\BLL\bin\Debug\net8.0\DAL.pdb
+F:\ASP .net Core\3_tier_Architecture\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+F:\ASP .net Core\3_tier_Architecture\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP .net Core\3_tier_Architecture\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+F:\ASP .net Core\3_tier_Architecture\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+F:\ASP .net Core\3_tier_Architecture\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+F:\ASP .net Core\3_tier_Architecture\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+F:\ASP .net Core\3_tier_Architecture\BLL\obj\Debug\net8.0\BLL.dll
+F:\ASP .net Core\3_tier_Architecture\BLL\obj\Debug\net8.0\refint\BLL.dll
+F:\ASP .net Core\3_tier_Architecture\BLL\obj\Debug\net8.0\BLL.pdb
+F:\ASP .net Core\3_tier_Architecture\BLL\obj\Debug\net8.0\BLL.genruntimeconfig.cache
+F:\ASP .net Core\3_tier_Architecture\BLL\obj\Debug\net8.0\ref\BLL.dll
