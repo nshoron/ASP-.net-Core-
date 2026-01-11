@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="App_Layar/App_Layar.csproj" />
-  <Project Path="BLL/BLL.csproj" Id="5a1d290e-5f35-4262-b94f-c11d7dc31862" />
-  <Project Path="DAL/DAL.csproj" Id="b8fb2433-8a1c-4a33-af3b-0c6fd29b116c" />
-</Solution>
