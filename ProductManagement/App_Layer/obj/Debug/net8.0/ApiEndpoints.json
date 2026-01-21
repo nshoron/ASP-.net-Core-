@@ -84,6 +84,7 @@
     "ReturnTypes": []
   },
   {
+<<<<<<< HEAD
     "ContainingType": "App_Layer.Controllers.CatagoryController",
     "Method": "GetWithProducts",
     "RelativePath": "api/Catagory/withproducts/{id}",
@@ -100,6 +101,8 @@
     "ReturnTypes": []
   },
   {
+=======
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
     "ContainingType": "App_Layer.Controllers.ProductController",
     "Method": "Get",
     "RelativePath": "api/Product/all",

@@ -46,7 +46,18 @@ namespace DAL.Repos
 
         }
 
+<<<<<<< HEAD
      
+=======
+        public List<Catagory> GetWithProduct(int id)
+        {
+            var cat = db.Catagories
+                .Include(ct => ct.Products)
+                .Where(c => c.Id == id)
+                .ToList();
+            return cat;
+        }
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
 
       
 
@@ -86,10 +97,14 @@ namespace DAL.Repos
 
         public Catagory GetWithProducts(int id)
         {
+<<<<<<< HEAD
            return db.Catagories
                 .Include(ct => ct.Products)
                 .Single(c=>c.Id == id);
 
+=======
+            throw new NotImplementedException();
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
         }
     }
 }

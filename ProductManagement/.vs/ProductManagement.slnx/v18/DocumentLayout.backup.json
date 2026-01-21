@@ -3,6 +3,17 @@
   "WorkspaceRootPath": "F:\\ASP .net Core\\ProductManagement\\",
   "Documents": [
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|f:\\asp .net core\\productmanagement\\dal\\repos\\catagoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\catagoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|f:\\asp .net core\\productmanagement\\bll\\services\\catagoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\catagoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
       "AbsoluteMoniker": "D:0:0:{7FA17656-F1AB-CC9C-0133-DA5D5907CA26}|App_Layer\\App_Layer.csproj|f:\\asp .net core\\productmanagement\\app_layer\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA17656-F1AB-CC9C-0133-DA5D5907CA26}|App_Layer\\App_Layer.csproj|solutionrelative:app_layer\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,6 +22,7 @@
       "RelativeMoniker": "D:0:0:{7FA17656-F1AB-CC9C-0133-DA5D5907CA26}|App_Layer\\App_Layer.csproj|solutionrelative:app_layer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|f:\\asp .net core\\productmanagement\\bll\\services\\catagoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\catagoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,6 +59,8 @@
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
       "AbsoluteMoniker": "D:0:0:{7FA17656-F1AB-CC9C-0133-DA5D5907CA26}|App_Layer\\App_Layer.csproj|f:\\asp .net core\\productmanagement\\app_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA17656-F1AB-CC9C-0133-DA5D5907CA26}|App_Layer\\App_Layer.csproj|solutionrelative:app_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,6 +73,13 @@
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|f:\\asp .net core\\productmanagement\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|f:\\asp .net core\\productmanagement\\bll\\dtos\\catagoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\catagoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,6 +88,29 @@
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\catagorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|f:\\asp .net core\\productmanagement\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|f:\\asp .net core\\productmanagement\\dal\\interfaces\\icatagoryfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icatagoryfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|f:\\asp .net core\\productmanagement\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|f:\\asp .net core\\productmanagement\\dal\\repos\\catagoryrepov2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\catagoryrepov2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|f:\\asp .net core\\productmanagement\\dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|f:\\asp .net core\\productmanagement\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,6 +119,13 @@
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|f:\\asp .net core\\productmanagement\\dal\\repos\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|f:\\asp .net core\\productmanagement\\bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -110,7 +161,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 5,
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,6 +173,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "CatagoryRepo.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\Repos\\CatagoryRepo.cs",
@@ -158,12 +214,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 1,
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
               "Title": "CatagoryService.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\BLL\\Services\\CatagoryService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\CatagoryService.cs",
               "ToolTip": "F:\\ASP .net Core\\ProductManagement\\BLL\\Services\\CatagoryService.cs",
               "RelativeToolTip": "BLL\\Services\\CatagoryService.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAACoAAAAAAAAAAAAmwDwAAAA7AAAAAAAAAA==",
+=======
+              "ViewState": "AgIAACMAAAAAAAAAAAASwDgAAAAAAAAAAAAAAA==",
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-10T22:24:16.741Z",
               "EditorCaption": ""
@@ -171,18 +234,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
+=======
+              "Title": "CatagoryRepo.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\Repos\\CatagoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CatagoryRepo.cs",
+              "ToolTip": "F:\\ASP .net Core\\ProductManagement\\DAL\\Repos\\CatagoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CatagoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T22:17:49.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
               "Title": "CatagoryController.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\App_Layer\\Controllers\\CatagoryController.cs",
               "RelativeDocumentMoniker": "App_Layer\\Controllers\\CatagoryController.cs",
               "ToolTip": "F:\\ASP .net Core\\ProductManagement\\App_Layer\\Controllers\\CatagoryController.cs",
               "RelativeToolTip": "App_Layer\\Controllers\\CatagoryController.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAD0AAAAAAAAAAAA1wEcAAAAJAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAACkAAAAAAAAAAAAxwD8AAAAuAAAAAAAAAA==",
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-10T22:44:21.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
               "Title": "ICatagoryFeature.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\Interfaces\\ICatagoryFeature.cs",
@@ -236,19 +320,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+=======
+              "DocumentIndex": 3,
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
               "Title": "ProductController.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\App_Layer\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "App_Layer\\Controllers\\ProductController.cs",
               "ToolTip": "F:\\ASP .net Core\\ProductManagement\\App_Layer\\Controllers\\ProductController.cs",
               "RelativeToolTip": "App_Layer\\Controllers\\ProductController.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAAeAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAeAAAAAAAAAA==",
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-10T23:47:33.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 10,
+=======
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\App_Layer\\Program.cs",
+              "RelativeDocumentMoniker": "App_Layer\\Program.cs",
+              "ToolTip": "F:\\ASP .net Core\\ProductManagement\\App_Layer\\Program.cs",
+              "RelativeToolTip": "App_Layer\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T22:11:45.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\EF\\Models\\Catagory.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Catagory.cs",
+              "ToolTip": "F:\\ASP .net Core\\ProductManagement\\DAL\\EF\\Models\\Catagory.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Catagory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T22:04:14.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\EF\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Product.cs",
+              "ToolTip": "F:\\ASP .net Core\\ProductManagement\\DAL\\EF\\Models\\Product.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T22:02:33.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
               "Title": "MapperConfig.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\BLL\\MapperConfig.cs",
               "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
@@ -261,7 +395,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 14,
+=======
+              "DocumentIndex": 8,
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
               "Title": "CatagoryProductDTO.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\BLL\\DTOs\\CatagoryProductDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\CatagoryProductDTO.cs",
@@ -269,6 +407,7 @@
               "RelativeToolTip": "BLL\\DTOs\\CatagoryProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2026-01-11T22:59:32.401Z"
             },
             {
@@ -310,6 +449,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
+=======
+              "WhenOpened": "2026-01-11T22:59:32.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "F:\\ASP .net Core\\ProductManagement\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T21:57:27.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
               "Title": "CatagoryDTO.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\BLL\\DTOs\\CatagoryDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\CatagoryDTO.cs",
@@ -317,11 +477,72 @@
               "RelativeToolTip": "BLL\\DTOs\\CatagoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2026-01-10T22:25:14.244Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+=======
+              "WhenOpened": "2026-01-10T22:25:14.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICatagoryFeature.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\Interfaces\\ICatagoryFeature.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICatagoryFeature.cs",
+              "ToolTip": "F:\\ASP .net Core\\ProductManagement\\DAL\\Interfaces\\ICatagoryFeature.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICatagoryFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:31:13.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "F:\\ASP .net Core\\ProductManagement\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:12:28.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CatagoryRepoV2.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\Repos\\CatagoryRepoV2.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CatagoryRepoV2.cs",
+              "ToolTip": "F:\\ASP .net Core\\ProductManagement\\DAL\\Repos\\CatagoryRepoV2.cs",
+              "RelativeToolTip": "DAL\\Repos\\CatagoryRepoV2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:15:25.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductRepo.cs",
+              "ToolTip": "F:\\ASP .net Core\\ProductManagement\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T23:16:10.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
               "Title": "ProductService.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\BLL\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
@@ -329,11 +550,31 @@
               "RelativeToolTip": "BLL\\Services\\ProductService.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAQwA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2026-01-10T23:28:34.395Z"
+=======
+              "WhenOpened": "2026-01-10T23:28:34.395Z",
+              "EditorCaption": ""
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+<<<<<<< HEAD
+=======
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\Repos\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repository.cs",
+              "ToolTip": "F:\\ASP .net Core\\ProductManagement\\DAL\\Repos\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T19:20:24.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
               "Title": "DAL.csproj",
               "DocumentMoniker": "F:\\ASP .net Core\\ProductManagement\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
@@ -341,7 +582,12 @@
               "RelativeToolTip": "DAL\\DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+<<<<<<< HEAD
               "WhenOpened": "2026-01-10T21:58:27.029Z"
+=======
+              "WhenOpened": "2026-01-10T21:58:27.029Z",
+              "EditorCaption": ""
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
             },
             {
               "$type": "Document",

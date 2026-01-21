@@ -136,6 +136,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/api/Catagory/withproducts/{id}": {
       "get": {
         "tags": [
@@ -159,6 +160,8 @@
         }
       }
     },
+=======
+>>>>>>> dbb88d6984cbaa2ba3bb7e95254bc03fa116cc1b
     "/api/Product/all": {
       "get": {
         "tags": [
