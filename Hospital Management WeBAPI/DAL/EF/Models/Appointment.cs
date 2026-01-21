@@ -23,13 +23,11 @@ namespace DAL.EF.Models
         [StringLength(50)]
         public string Status { get; set; } = "Pending";
 
-        // Foreign Keys
         [ForeignKey("Doctor")]
         public int DoctorId { get; set; }
 
         [ForeignKey("Patient")]
         public int PatientId { get; set; }
-        // Navigation
         public virtual Doctor Doctor { get; set; }
         public virtual Patient Patient { get; set; }
 

@@ -19,7 +19,6 @@ namespace DAL.EF.Models
         [StringLength(60)]
         public string Status { get; set; }
 
-        // One-to-Many
         public virtual ICollection<Appointment> Appointments { get; set; }
 
         public virtual ICollection<DoctorAvailability> DoctorAvailabilities { get; set; }

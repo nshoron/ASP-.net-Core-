@@ -21,7 +21,6 @@ namespace DAL.EF.Models
 
         public TimeSpan EndTime { get; set; }
 
-        // Foreign Key
         [ForeignKey("Doctor")]
         public int DoctorId { get; set; }
 

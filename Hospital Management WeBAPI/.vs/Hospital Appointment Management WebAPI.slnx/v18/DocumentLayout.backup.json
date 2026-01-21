@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{7FA17656-F1AB-CC9C-0133-DA5D5907CA26}|App_Layer\\App_Layer.csproj|solutionrelative:app_layer\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|f:\\asp .net core\\hospital management webapi\\bll\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|f:\\asp .net core\\hospital management webapi\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FA17656-F1AB-CC9C-0133-DA5D5907CA26}|App_Layer\\App_Layer.csproj|f:\\asp .net core\\hospital management webapi\\app_layer\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA17656-F1AB-CC9C-0133-DA5D5907CA26}|App_Layer\\App_Layer.csproj|solutionrelative:app_layer\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|f:\\asp .net core\\hospital management webapi\\bll\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|f:\\asp .net core\\hospital management webapi\\dal\\repos\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|f:\\asp .net core\\hospital management webapi\\dal\\interfaces\\ipatientfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ipatientfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|f:\\asp .net core\\hospital management webapi\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|f:\\asp .net core\\hospital management webapi\\dal\\ef\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -158,7 +158,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DoctorDTO.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\BLL\\DTOs\\DoctorDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\DoctorDTO.cs",
@@ -166,8 +166,7 @@
               "RelativeToolTip": "BLL\\DTOs\\DoctorDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T22:17:46.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T22:17:46.894Z"
             },
             {
               "$type": "Document",
@@ -177,14 +176,14 @@
               "RelativeDocumentMoniker": "App_Layer\\Controllers\\DoctorController.cs",
               "ToolTip": "F:\\ASP .net Core\\Hospital Management WeBAPI\\App_Layer\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "App_Layer\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAADwv0IAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T22:24:38.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Appointment.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\DAL\\EF\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Models\\Appointment.cs",
@@ -192,12 +191,11 @@
               "RelativeToolTip": "DAL\\EF\\Models\\Appointment.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T20:48:20.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T20:48:20.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Doctor.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\DAL\\EF\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Models\\Doctor.cs",
@@ -205,12 +203,11 @@
               "RelativeToolTip": "DAL\\EF\\Models\\Doctor.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T20:10:27.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T20:10:27.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DoctorAvailability.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\DAL\\EF\\Models\\DoctorAvailability.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Models\\DoctorAvailability.cs",
@@ -218,12 +215,11 @@
               "RelativeToolTip": "DAL\\EF\\Models\\DoctorAvailability.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T20:45:33.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T20:45:33.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PatientRepository.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\DAL\\Repos\\PatientRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\PatientRepository.cs",
@@ -231,21 +227,19 @@
               "RelativeToolTip": "DAL\\Repos\\PatientRepository.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAvwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T22:19:20.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T22:19:20.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppointmentService.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\BLL\\Services\\AppointmentService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\AppointmentService.cs",
-              "ToolTip": "F:\\ASP .net Core\\Hospital Management WeBAPI\\BLL\\Services\\AppointmentService.cs*",
-              "RelativeToolTip": "BLL\\Services\\AppointmentService.cs*",
+              "ToolTip": "F:\\ASP .net Core\\Hospital Management WeBAPI\\BLL\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "BLL\\Services\\AppointmentService.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAmwIEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T01:37:00.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T01:37:00.713Z"
             },
             {
               "$type": "Document",
@@ -253,16 +247,29 @@
               "Title": "AppointmentController.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\App_Layer\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "App_Layer\\Controllers\\AppointmentController.cs",
-              "ToolTip": "F:\\ASP .net Core\\Hospital Management WeBAPI\\App_Layer\\Controllers\\AppointmentController.cs*",
-              "RelativeToolTip": "App_Layer\\Controllers\\AppointmentController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAeAAAAAAAAAA==",
+              "ToolTip": "F:\\ASP .net Core\\Hospital Management WeBAPI\\App_Layer\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "App_Layer\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwFMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T01:39:34.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "F:\\ASP .net Core\\Hospital Management WeBAPI\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:07:34.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AvailabilityController.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\App_Layer\\Controllers\\AvailabilityController.cs",
               "RelativeDocumentMoniker": "App_Layer\\Controllers\\AvailabilityController.cs",
@@ -270,16 +277,11 @@
               "RelativeToolTip": "App_Layer\\Controllers\\AvailabilityController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T16:19:21.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "WhenOpened": "2026-01-20T16:19:21.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PatientController.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\App_Layer\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "App_Layer\\Controllers\\PatientController.cs",
@@ -287,12 +289,11 @@
               "RelativeToolTip": "App_Layer\\Controllers\\PatientController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T22:28:37.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T22:28:37.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PatientService.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\BLL\\Services\\PatientService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\PatientService.cs",
@@ -300,12 +301,11 @@
               "RelativeToolTip": "BLL\\Services\\PatientService.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAUwDcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T22:24:23.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T22:24:23.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IPatientFeature.cs",
               "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\DAL\\Interfaces\\IPatientFeature.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IPatientFeature.cs",
@@ -313,8 +313,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IPatientFeature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T20:53:38.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T20:53:38.954Z"
             },
             {
               "$type": "Document",
@@ -326,8 +325,7 @@
               "RelativeToolTip": "BLL\\Services\\DoctorAvailabilityService.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAYwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T16:09:14.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T16:09:14.18Z"
             },
             {
               "$type": "Document",
@@ -339,21 +337,7 @@
               "RelativeToolTip": "DAL\\EF\\Models\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T20:10:52.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MapperConfig.cs",
-              "DocumentMoniker": "F:\\ASP .net Core\\Hospital Management WeBAPI\\BLL\\MapperConfig.cs",
-              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
-              "ToolTip": "F:\\ASP .net Core\\Hospital Management WeBAPI\\BLL\\MapperConfig.cs",
-              "RelativeToolTip": "BLL\\MapperConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T20:07:34.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T20:10:52.22Z"
             },
             {
               "$type": "Document",
@@ -365,8 +349,7 @@
               "RelativeToolTip": "BLL\\Services\\DoctorService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T22:14:47.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T22:14:47.963Z"
             },
             {
               "$type": "Document",
@@ -378,8 +361,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T21:56:45.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T21:56:45.486Z"
             },
             {
               "$type": "Document",
@@ -391,8 +373,7 @@
               "RelativeToolTip": "DAL\\Repos\\DoctorRepositoy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T21:55:36.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T21:55:36.279Z"
             },
             {
               "$type": "Document",
@@ -404,8 +385,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IAppointmentFeature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T19:38:09.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T19:38:09.917Z"
             },
             {
               "$type": "Document",
@@ -417,8 +397,7 @@
               "RelativeToolTip": "BLL\\DTOs\\DoctorPatientDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T23:17:35.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T23:17:35.727Z"
             },
             {
               "$type": "Document",
@@ -430,8 +409,7 @@
               "RelativeToolTip": "BLL\\DTOs\\AppointmentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T01:37:27.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T01:37:27.296Z"
             },
             {
               "$type": "Document",
@@ -443,8 +421,7 @@
               "RelativeToolTip": "DAL\\Repos\\AppointmentRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T01:30:57.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T01:30:57.345Z"
             },
             {
               "$type": "Document",
@@ -456,8 +433,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IDoctorFeature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T20:33:33.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:33:33.826Z"
             },
             {
               "$type": "Document",
@@ -469,8 +445,7 @@
               "RelativeToolTip": "DAL\\DataAccessFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T20:08:00.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T20:08:00.58Z"
             },
             {
               "$type": "Document",
@@ -482,8 +457,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IAvailabilityFeature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T16:00:12.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T16:00:12.518Z"
             },
             {
               "$type": "Document",
@@ -495,8 +469,7 @@
               "RelativeToolTip": "BLL\\DTOs\\DoctorAvailabilityDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T16:10:10.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T16:10:10.147Z"
             },
             {
               "$type": "Document",
@@ -508,8 +481,7 @@
               "RelativeToolTip": "DAL\\Repos\\DoctorAvailablityRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T16:02:55.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T16:02:55.028Z"
             },
             {
               "$type": "Document",
@@ -521,8 +493,7 @@
               "RelativeToolTip": "BLL\\DTOs\\PatientDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T22:25:08.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T22:25:08.786Z"
             },
             {
               "$type": "Document",
@@ -534,8 +505,7 @@
               "RelativeToolTip": "App_Layer\\App_Layer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-13T20:09:25.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T20:09:25.069Z"
             },
             {
               "$type": "Document",
@@ -547,8 +517,7 @@
               "RelativeToolTip": "BLL\\DTOs\\AvailableDoctorDTO.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T16:50:26.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T16:50:26.579Z"
             },
             {
               "$type": "Document",
@@ -560,8 +529,7 @@
               "RelativeToolTip": "App_Layer\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T21:38:34.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T21:38:34.165Z"
             },
             {
               "$type": "Document",
@@ -573,8 +541,7 @@
               "RelativeToolTip": "DAL\\EF\\HASDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T21:33:18.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T21:33:18.694Z"
             },
             {
               "$type": "Document",
@@ -586,8 +553,7 @@
               "RelativeToolTip": "DAL\\DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-13T20:09:32.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T20:09:32.311Z"
             },
             {
               "$type": "Document",
@@ -611,8 +577,7 @@
               "RelativeToolTip": "BLL\\BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-13T20:08:31.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T20:08:31.692Z"
             },
             {
               "$type": "Document",
@@ -625,6 +590,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-13T21:39:30.139Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }
