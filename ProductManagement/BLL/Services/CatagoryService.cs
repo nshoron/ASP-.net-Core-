@@ -54,6 +54,12 @@ namespace BLL.Services
             var ret = mapper.Map<List<CatagoryProductDTO>>(data);
             return ret;
         }
-
+       public CatagoryProductDTO GetWithProducts(int id)
+        {
+            var data = factory.CatagoryFeature().GetWithProducts(id);
+            var mapper = MapperConfig.GetMapper();
+            var ret = mapper.Map<CatagoryProductDTO>(data);
+            return ret;
+        }
     }
 }

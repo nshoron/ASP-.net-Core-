@@ -46,14 +46,7 @@ namespace DAL.Repos
 
         }
 
-        public List<Catagory> GetWithProduct(int id)
-        {
-            var cat = db.Catagories
-                .Include(ct => ct.Products)
-                .Where(c => c.Id == id)
-                .ToList();
-            return cat;
-        }
+     
 
       
 
@@ -93,7 +86,10 @@ namespace DAL.Repos
 
         public Catagory GetWithProducts(int id)
         {
-            throw new NotImplementedException();
+           return db.Catagories
+                .Include(ct => ct.Products)
+                .Single(c=>c.Id == id);
+
         }
     }
 }

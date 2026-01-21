@@ -64,6 +64,12 @@ namespace App_Layer.Controllers
             var data = service.GetWithProducts();
             return Ok(data);
         }
+        [HttpGet("withproducts/{id}")]
+        public IActionResult GetWithProducts(int id)
+        {
+            var data = service.GetWithProducts(id);
+            return Ok(data);
+        }
 
     }
 }
